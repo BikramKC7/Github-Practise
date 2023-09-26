@@ -1,3 +1,3 @@
 # Github-Practise
-This is just the git-hub practise
-this is beginning
+This is just the git-hub practice.
+<br>this is beginning
